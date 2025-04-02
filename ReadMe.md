@@ -1,5 +1,5 @@
 # About Me:
-💻 Vijay Varma | Aspiring Software Developer<br><br><br> About Me<br><br>🎓 B.Tech (CSE) | 3rd Year<br>💡 Aspiring Software Developer with a passion for Full Stack Development,Java,Django and exploring to building AI Agents<br>👨‍💻 Tech Stack: Java | Python | Django | Flask | CSS3 | HTML5
+💻 Vijay Varma | Aspiring Software Developer<br><br><br> About Me<br><br>🎓 B.Tech (CSE) | 3rd Year<br>💡 Aspiring Software Developer with a passion for Full Stack Development,Java,Django and Working on various *USECASES* for developing an AI Agents<br>👨‍💻 Tech Stack: Java | Python | Django | Flask | CSS3 | HTML5
 
 
 ##  Socials:
